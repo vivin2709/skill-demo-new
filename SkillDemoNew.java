@@ -1,1 +1,7 @@
-public class SkillDemoNew {} //cloning to github desktop
+public class SkillDemoNew {
+
+    public static int subtract(int a,int b)
+    {
+        return b-a;
+    }
+} 
